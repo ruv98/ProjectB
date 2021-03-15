@@ -39,5 +39,6 @@ public class Program
 		DrankList.AddRange(Drinken);
 		foreach (string a in DrankList)
 			Console.WriteLine(a);
+		Console.WriteLine("\nPlease click the number before the dish to get more details\n");
 	}
 }
