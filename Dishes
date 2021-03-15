@@ -1,43 +1,43 @@
 using System;
 using System.Collections.Generic;
-					
+
 public class Program
 {
 	public static void Main()
 	{
-Console.WriteLine("         Voorgerechten:");
-string[] VGDishes = { "Sashimi tonijn ", "Carpaccio ", "Huzarensalade", "Soep " };  
-List<string> VGDishList = new List<string>();  
-VGDishList.AddRange(VGDishes);  
-foreach (string a in VGDishList)  
-Console.WriteLine(a);  
+		Console.WriteLine("         Voorgerechten:");
+		string[] VGDishes = { "1.Sashimi tonijn ", "2.Carpaccio ", "3.Huzarensalade", "4.Soep " };
+		List<string> VGDishList = new List<string>();
+		VGDishList.AddRange(VGDishes);
+		foreach (string a in VGDishList)
+			Console.WriteLine(a);
 
-Console.WriteLine("         Tussengerechten:");
-string[] TGDishes = { "Pasta", "Eendenborst "};  
-List<string> TGDishList = new List<string>();  
-TGDishList.AddRange(TGDishes);  
-foreach (string a in TGDishList)  
-Console.WriteLine(a);  
+		Console.WriteLine("\n         Tussengerechten:");
+		string[] TGDishes = { "5.Pasta", "6.Eendenborst " };
+		List<string> TGDishList = new List<string>();
+		TGDishList.AddRange(TGDishes);
+		foreach (string a in TGDishList)
+			Console.WriteLine(a);
 
-Console.WriteLine("         Hoofdgerechten:");
-string[] HGDishes = { "Biefstuk met knoflookaardappeltjes", "Vis van de dag ", "Kibbeling", "Lasagne" };  
-List<string> HGDishList = new List<string>();  
-HGDishList.AddRange(HGDishes);  
-foreach (string a in HGDishList)  
-Console.WriteLine(a);  
+		Console.WriteLine("\n         Hoofdgerechten:");
+		string[] HGDishes = { "7.Biefstuk met knoflookaardappeltjes", "8.Vis van de dag ", "9.Kibbeling", "10.Lasagne" };
+		List<string> HGDishList = new List<string>();
+		HGDishList.AddRange(HGDishes);
+		foreach (string a in HGDishList)
+			Console.WriteLine(a);
 
-Console.WriteLine("         Nagerechten:");
-string[] NGDishes = { "Panna Cotta", "Bitterkoekjes", "Kaasplateau"};  
-List<string> NGDishList = new List<string>();  
-NGDishList.AddRange(NGDishes);  
-foreach (string a in NGDishList)  
-Console.WriteLine(a);  
-		
-Console.WriteLine("         Drinken:");
-string[] Drinken = { "Frisdrank/Soda", "Wijn", "Beer"};  
-List<string> DrankList = new List<string>();  
-DrankList.AddRange(Drinken);  
-foreach (string a in DrankList)  
-Console.WriteLine(a);  
+		Console.WriteLine("\n         Nagerechten:");
+		string[] NGDishes = { "11.Panna Cotta", "12.Bitterkoekjes", "13.Kaasplateau" };
+		List<string> NGDishList = new List<string>();
+		NGDishList.AddRange(NGDishes);
+		foreach (string a in NGDishList)
+			Console.WriteLine(a);
+
+		Console.WriteLine("\n         Drinken:");
+		string[] Drinken = { "14.Frisdrank/Soda", "15.Wijn", "17.Beer" };
+		List<string> DrankList = new List<string>();
+		DrankList.AddRange(Drinken);
+		foreach (string a in DrankList)
+			Console.WriteLine(a);
 	}
 }
