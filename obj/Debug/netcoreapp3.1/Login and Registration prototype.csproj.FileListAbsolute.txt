@@ -1,0 +1,13 @@
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.exe
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.deps.json
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.runtimeconfig.json
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.runtimeconfig.dev.json
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.dll
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\bin\Debug\netcoreapp3.1\Login and Registration prototype.pdb
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.csprojAssemblyReference.cache
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.AssemblyInfoInputs.cache
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.AssemblyInfo.cs
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.csproj.CoreCompileInputs.cache
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.dll
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.pdb
+C:\Users\Jingk\source\repos\Login and Registration prototype\Login and Registration prototype\obj\Debug\netcoreapp3.1\Login and Registration prototype.genruntimeconfig.cache
